@@ -1,0 +1,35 @@
+html,
+body {
+    height: 100%;
+    font-size: Irem;
+    font-family: 'Azeret Mono', monospace;
+}
+
+.gradient {
+  background: rgb(15,52,255);
+  background: linear-gradient(
+    90deg, 
+   rgba(15,52,255,1) 0%, 
+   rgba(255,0,254,1) 85%
+ );
+}
+
+.page-header {
+    margin-top: 3.5rem;
+    font-size: 1.25rem;
+    color: #fff;
+}
+
+.feature {
+  color:#fff
+}
+
+.feature ul {
+  padding-left: rem2;
+  list-style-type:none;
+}
+
+.feature ul li {
+  padding-left:rem2;
+  background-image: 
+}

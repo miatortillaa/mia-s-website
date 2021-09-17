@@ -25,14 +25,14 @@ body {
 }
 
 .feature ul {
-  padding-left: rem2;
+  padding-left: 2rem;
   list-style-type:none;
 }
 
 .feature ul li {
-  padding-left:rem2;
-  background-image:url(./img/camera.jpg)
-  background-repeat: no-repeat
-  line-height:1.5rem;
-  margin-bottom:1rem;
+  padding-left: 2rem;
+  background-image: url(./img/camera.jpg);
+  background-repeat: no-repeat;
+  line-height: 1.5rem;
+  margin-bottom: 1rem;
 }

@@ -26,12 +26,12 @@ body {
 
 .feature ul {
   padding-left: 2rem;
-  list-style-type:none;
+  list-style-type: none;
 }
 
 .feature ul li {
   padding-left: 2rem;
-  background-image: url(./img/camera.jpg);
+  background-image: url(./img/camera.svg);
   background-repeat: no-repeat;
   line-height: 1.5rem;
   margin-bottom: 1rem;
